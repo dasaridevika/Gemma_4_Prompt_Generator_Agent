@@ -1,0 +1,8 @@
+# Core Web Framework for the User Interface
+streamlit>=1.35.0
+
+# Official Google GenAI SDK for Gemma 4 and Gemini Models
+google-genai>=0.1.1
+
+# Standard HTTP Request Utility library (required for fallbacks)
+requests>=2.31.0
